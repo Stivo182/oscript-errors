@@ -1,0 +1,14 @@
+# OneScript
+out/
+oscript_modules/
+coverage/
+*.ospx
+
+# VS Code
+.vscode/
+
+# Mac
+**/.DS_Store
+
+# Git
+.worktrees/
