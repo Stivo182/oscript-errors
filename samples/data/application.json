@@ -1,0 +1,7 @@
+{
+  "service": {
+    "name": "orders-api",
+    "host": "127.0.0.1",
+    "port": "eighty"
+  }
+}
