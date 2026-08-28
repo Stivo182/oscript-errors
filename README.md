@@ -1,5 +1,9 @@
 # errors
 
+[![Release](https://img.shields.io/github/release/Stivo182/oscript-errors.svg)](https://github.com/Stivo182/oscript-errors/releases)
+[![Тестирование](https://github.com/stivo182/oscript-errors/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/stivo182/oscript-errors/actions/workflows/test.yml)
+[![Used by](https://litrosbadges.ru/package/errors.svg)](https://litrosbadges.ru/package/errors)
+
 `errors` — библиотека структурированных ошибок для OneScript.
 
 Она дополняет стандартную `ИнформацияОбОшибке` средствами для создания, распространения и диагностики ошибок:
