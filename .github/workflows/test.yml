@@ -15,3 +15,4 @@ jobs:
     with:
       oscript_version: ${{ matrix.oscript_version }}
       test_engine: oneunit
+      oneunit_version: 0.5.1
